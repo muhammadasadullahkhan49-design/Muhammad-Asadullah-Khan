@@ -1,0 +1,8 @@
+{
+  "name": "Remix Smart Namaz Mode \u0026 Auto-Reply",
+  "description": "Automates silent mode and social media replies during prayer times based on city-specific calculations and custom Ibadat schedules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
